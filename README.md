@@ -1,4 +1,5 @@
 # reverse
+[![build](https://github.com/dacturne/reverse/actions/workflows/ci.yml/badge.svg)](https://github.com/dacturne/reverse/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/dacturne/reverse.svg)](https://pkg.go.dev/github.com/dacturne/reverse)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dacturne/reverse)](https://goreportcard.com/report/github.com/dacturne/reverse)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/dacturne/reverse)
